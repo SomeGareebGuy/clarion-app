@@ -5,6 +5,9 @@ Probably something about tracking number of debates per person, so maybe a drop 
 ## SignUp/Login page
 - Only through gmail.
 
+![enter image description here](https://photos.app.goo.gl/EWvyJjtWpktTt6t99)
+![enter image description here](https://photos.app.goo.gl/XhVrrW1Dc9PCmTXu9)
+
 ## Profile page
  - **Guest** can only change the
     - Name
