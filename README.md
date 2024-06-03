@@ -3,7 +3,7 @@
 Probably something about tracking number of debates per person, so maybe a drop down menu for that, way to type in the motions that is to be done, the motion chosen (maybe a drop down that has 1/ 2/ 3 and thus automatically records these), and the record if gov wins or opp wins, and a way to access who has debated how many times.
 
 ## Sign Up / Sign In page
-![Login](https://github.com/SomeGareebGuy/clarion-app/assets/83328033/12efa4c7-c456-47a0-afc3-cdcc865eef2c)
+![Login](https://github.com/SomeGareebGuy/clarion-app/assets/83328033/e8378139-0fa2-424a-9986-231d1ec0d907)
 - Only through gmail.
 - New email will redirect to register page. 
 - Already registered people will be redirected to home page.
