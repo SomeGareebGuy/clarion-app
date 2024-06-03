@@ -9,12 +9,14 @@ Probably something about tracking number of debates per person, so maybe a drop 
 - Already registered people will be redirected to home page.
 
 ## Register
+![Register](https://github.com/SomeGareebGuy/clarion-app/assets/83328033/e0ee06a9-7efb-421f-96b9-b798ac5918f2)
 - In register page you have to input
 	- Profile picture (If automatic generation doesn't work out).
 	- Name.
 	- Roll number.
 
 ## Profile page
+![Profile](https://github.com/SomeGareebGuy/clarion-app/assets/83328033/1683c135-c6fa-4af3-865e-938cbde041c8)
  - Both **debators** and **tabbers** will be able to see
     - Name
     - Roll number
@@ -24,6 +26,7 @@ Probably something about tracking number of debates per person, so maybe a drop 
 - Additionally for **debators** a request access button to request access for becoming a tabber.
 
 ## Motions page
+![Motions](https://github.com/SomeGareebGuy/clarion-app/assets/83328033/dcfce3e3-fe6b-4dff-b216-41ae7ca76b9d)
 This page contains various cards, where each card signifies each debate, containing
 - Date and Time of the debate
 - Adjudicates of the debate
@@ -35,7 +38,6 @@ This page contains various cards, where each card signifies each debate, contain
 	- 1 green/red if gov won/lost
 
 There should also be a search bar in the top which allows to search from the present motions, using any of the information presented in the card.
-
 
 ## Debates Appeared Page
 This will contain the same cards as the motions page, the difference only being that you only see the debates you appeared in.
