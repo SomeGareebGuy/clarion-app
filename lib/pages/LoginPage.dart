@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
-
 final FirebaseAuth auth = FirebaseAuth.instance;
 
 class LoginPage extends StatefulWidget {
@@ -121,10 +120,14 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 
-  void _handleGoogleSignIn() {
+  void _handleGoogleSignIn() async {
     try {
       GoogleAuthProvider googleAuthProvider = GoogleAuthProvider();
-      auth.signInWithProvider(googleAuthProvider);
+      // Sign in with Google
+      UserCredential userCredential = await auth.signInWithProvider(googleAuthProvider);
+
+      // Get user information
+      final user = userCredential.user;
     } catch (error) {
       print(error);
     }
